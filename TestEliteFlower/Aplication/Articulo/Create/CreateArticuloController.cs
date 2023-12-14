@@ -28,7 +28,7 @@ namespace TestEliteFlower.Aplication.Articulo.Create
             }
             catch (Exception ex)
             {
-                return StatusCode(StatusCodes.Status500InternalServerError, "Internal Server Error");
+                return StatusCode(StatusCodes.Status500InternalServerError, "Codigo fabricante no valido");
             }
         }
 
