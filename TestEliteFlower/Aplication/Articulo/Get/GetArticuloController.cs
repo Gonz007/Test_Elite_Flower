@@ -1,8 +1,5 @@
 ﻿using MediatR;
-using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
-using System;
-using System.Threading.Tasks;
 using TestEliteFlower.Aplication.Articulo.Get;
 
 namespace TestEliteFlower.Api.Controllers

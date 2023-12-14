@@ -42,7 +42,6 @@ namespace TestEliteFlower.Aplication.Articulo.Get
             }
             catch (Exception ex)
             {
-                // Manejar la excepción de manera adecuada
                 throw ex;
             }
         }

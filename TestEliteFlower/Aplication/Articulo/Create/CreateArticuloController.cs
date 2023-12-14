@@ -1,8 +1,5 @@
-﻿using Microsoft.AspNetCore.Mvc;
-using System;
-using System.Threading.Tasks;
-using MediatR;
-using Microsoft.AspNetCore.Http;
+﻿using MediatR;
+using Microsoft.AspNetCore.Mvc;
 
 namespace TestEliteFlower.Aplication.Articulo.Create
 {
@@ -40,9 +37,7 @@ namespace TestEliteFlower.Aplication.Articulo.Create
         [ProducesResponseType(StatusCodes.Status404NotFound)]
         public async Task<IActionResult> GetArticulo(int codigo)
         {
-            // Implementa la lógica para obtener un artículo por su código
-            // Devuelve OK con los datos del artículo o NotFound si no se encuentra
-            return Ok(/* Datos del artículo */);
+            return Ok();
         }
     }
 }

@@ -1,5 +1,4 @@
-﻿using System.Collections.Generic;
-using TestEliteFlower.Aplication.Dto;
+﻿using TestEliteFlower.Aplication.Dto;
 
 namespace TestEliteFlower.Aplication.Fabricante.Get
 {

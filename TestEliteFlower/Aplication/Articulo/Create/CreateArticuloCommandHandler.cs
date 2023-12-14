@@ -32,7 +32,6 @@ namespace TestEliteFlower.Aplication.Articulo.Create
             catch (Exception ex)
             {
                 Console.WriteLine($"Error al crear el artículo: {ex.Message}");
-                // Log the exception, and consider returning a custom error response
                 throw new ApplicationException("Error al crear el artículo.", ex);
             }
         }

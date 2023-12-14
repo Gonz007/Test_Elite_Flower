@@ -3434,11 +3434,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\GNZ\\source\\repos\\TestEliteFlower\\TestEliteFlower\\TestEliteFlower.csproj",
+      "projectUniqueName": "C:\\Users\\GNZ\\Source\\Repos\\Test_Elite_Flower\\TestEliteFlower\\TestEliteFlower.csproj",
       "projectName": "TestEliteFlower",
-      "projectPath": "C:\\Users\\GNZ\\source\\repos\\TestEliteFlower\\TestEliteFlower\\TestEliteFlower.csproj",
+      "projectPath": "C:\\Users\\GNZ\\Source\\Repos\\Test_Elite_Flower\\TestEliteFlower\\TestEliteFlower.csproj",
       "packagesPath": "C:\\Users\\GNZ\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\GNZ\\source\\repos\\TestEliteFlower\\TestEliteFlower\\obj\\",
+      "outputPath": "C:\\Users\\GNZ\\Source\\Repos\\Test_Elite_Flower\\TestEliteFlower\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\GNZ\\AppData\\Roaming\\NuGet\\NuGet.Config",

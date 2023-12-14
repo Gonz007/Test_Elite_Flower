@@ -1,5 +1,4 @@
 ﻿using MediatR;
-using TestEliteFlower.Aplication.Fabricante.Get;
 
 namespace TestEliteFlower.Aplication.Fabricante.Get
 {

@@ -1,12 +1,8 @@
 ﻿using MediatR;
 using Microsoft.EntityFrameworkCore;
 using System.Reflection;
-using Microsoft.Extensions.DependencyInjection;
-using Microsoft.Extensions.Configuration;
 using TestEliteFlower.Domain.Interfaces;
 using TestEliteFlower.Infraestructure.Repository;
-using TestEliteFlower;
-using Microsoft.AspNetCore.Hosting;
 
 namespace TestEliteFlower
 {
